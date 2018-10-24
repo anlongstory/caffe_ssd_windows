@@ -47,7 +47,8 @@ and start from **Step 3** which in blog is **`3.修改Caffe配置文件`**
 
 ### Building only for GPU
 
-  1. git clone https://github.com/anlongstory/caffe-ssd-windows
+    1. git clone https://github.com/anlongstory/caffe-ssd-windows
+  
    `2. take this blog as reference:` [Windows 下用 build_win.cmd 直接编译GPU版caffe](https://blog.csdn.net/Chris_zhangrx/article/details/83339684)
 
 and start from **Step 5** which in blog is **`5.修改Caffe配置文件`**
